@@ -6,8 +6,8 @@
 
 - 💞️ **Colaboraciones:** Estoy abierto a colaborar en proyectos de electrónica, UAVs, y cualquier iniciativa relacionada con la automatización, sistemas de comunicación de largo alcance, y mejoras en la eficiencia de vuelo y autonomía de drones. Me interesa especialmente contribuir en proyectos de código abierto que tengan impacto en la comunidad de desarrolladores de UAVs.
 
-- 📫 **Cómo contactarme:** Puedes comunicarte conmigo a través de mi perfil de GitHub, y también estoy disponible en mis redes profesionales y en foros de desarrollo de UAVs.
+- 📫 **Cómo contactarme:** Puedes comunicarte conmigo a través de mi perfil de GitHub, y también estoy disponible en mis redes @luchin_olmos y en foros de desarrollo de UAVs (discord).
 
-- ⚡ **Dato curioso:** Cuando no estoy desarrollando o programando, me gusta trabajar en proyectos de ingeniería balística y diseño de drones de bajo costo, aplicados a escenarios de defensa y seguridad.
+- ⚡ **Dato curioso:** 
 
 ¡Gracias por visitar mi perfil! 🚀
